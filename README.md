@@ -1,1 +1,1 @@
-boots.dev Build Asteroids guided project. 
+boot.dev Build Asteroids guided project. 
